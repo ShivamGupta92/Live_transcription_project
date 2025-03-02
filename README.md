@@ -1,2 +1,6 @@
-# Live_transcription_project
-Using deepgram API and advanced model we can generate a live transcription for any language.
+# if getting error in pyaudio
+# - sudo apt-get install portaudio19-dev
+# - pip install pyaudio
+
+# if getting error in tk or tkinter
+# - sudo apt-get install python3-tk
